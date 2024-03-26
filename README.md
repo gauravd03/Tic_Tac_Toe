@@ -1,5 +1,5 @@
 **Tic Tac Toe Game**
--This is a simple web-based Tic Tac Toe game developed using HTML, CSS, and JavaScript. The game allows two players to compete against each other on a 3x3 grid.
+-This is a  web-based Tic Tac Toe game developed using HTML, CSS, and JavaScript. The game allows two players to compete against each other on a 3x3 grid.
 
 **Features**
 1.Simple Interface: The game provides a clean and intuitive user interface for an enjoyable gaming experience.
